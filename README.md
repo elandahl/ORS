@@ -1,5 +1,11 @@
 # How DePaul Faculty Can Use Argonne
 
+**Quick Navigation:**  
+🔬 [User Facilities Guide](docs/user-facilities.md) |  
+🎓 [Education & Talent Programs Guide](docs/education-programs.md)
+
+---
+
 Argonne National Laboratory provides two primary pathways for DePaul faculty:
 
 1. **Conduct research using national user facilities**
